@@ -1,8 +1,8 @@
+![img.jpg](img.jpg)
 
 
 # Je vesmír živý?
 
----
 
 Záznam konverzace s ChatGPT pořízený při vycházce se psem :-)
 Všechny otázky jsou diktované.
